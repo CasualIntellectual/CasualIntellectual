@@ -20,5 +20,10 @@ I have been programming for three years now, and have finished two video game pr
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/helldude." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CasualIntellectual" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
+
+![CasualIntellectual's Stats](https://github-readme-stats.vercel.app/api?username=CasualIntellectual&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![CasualIntellectual's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CasualIntellectual&theme=vue-dark&hide_border=true)
+![CasualIntellectual's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CasualIntellectual&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
