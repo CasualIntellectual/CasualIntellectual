@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at the University of Waterloo
 ----------------------------------------
 
-I have been programming for three years throughout high school, and have finished two video game projects using Python and Java recently. I am currently focusing on web developement using HTML/CSS/React.
+I have been programming for three years throughout high school and have finished two video game projects using Python and Java recently. I am currently focusing on web developement using HTML/CSS/React.
 
 * 🌍  I'm based in Waterloo, Ontario
 * ✉️  You can contact me at [k37huang@uwaterloo.ca](mailto:k37huang@uwaterloo.ca)
