@@ -23,7 +23,5 @@ I have been programming for three years now, and have finished two video game pr
 
 ### Badges
 
-![CasualIntellectual's Stats](https://github-readme-stats.vercel.app/api?username=CasualIntellectual&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-![CasualIntellectual's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CasualIntellectual&theme=vue-dark&hide_border=true)
-![CasualIntellectual's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CasualIntellectual&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
