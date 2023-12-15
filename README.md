@@ -28,6 +28,10 @@ Pygame Browser Top-Scroller
 
 ![14467c31_d5f3_477a_9e89_7634ff9fc752_Promo_art_712x400](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/97ab563a-2ef5-4eb8-ac40-7383bb47da6f)
 
+Java Console BlackJack
+
+![image](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/ce702a48-52a6-405e-bb81-3411190d9cd2)
+
 
 
 
