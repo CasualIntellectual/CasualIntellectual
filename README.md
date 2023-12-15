@@ -21,5 +21,9 @@ I have been programming for three years throughout high school and have finished
 
 <p align="left"> <a href="https://discord.com/users/helldude." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CasualIntellectual" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+### Projects 
+![image](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/c03a5a6b-0734-447d-aff0-8a7017ec8b5e)
+![287919894-51b9a6c5-77f9-4597-a86c-733567b8f54a](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/d34a7bad-8c4d-49ac-b2ed-e9ba757f919e)
+
 
 
