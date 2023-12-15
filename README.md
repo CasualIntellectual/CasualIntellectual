@@ -26,7 +26,9 @@ I have been programming for three years throughout high school and have finished
 
 Pygame Browser Top-Scroller
 
-![image](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/e7aa6deb-c238-418a-af5d-66ff9fded57b)
+![14467c31_d5f3_477a_9e89_7634ff9fc752_Promo_art_712x400](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/97ab563a-2ef5-4eb8-ac40-7383bb47da6f)
+
+
 
 
 
