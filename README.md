@@ -34,8 +34,7 @@ Java Console BlackJack
 
 Racket RSA Encryption Program and Modular Exponentiation
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?app=desktop&v=-jSX9fNJiN8)
-
+![image](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/48ff0564-98e1-4989-bfee-f878f899e610)
 
 
 
