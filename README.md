@@ -32,7 +32,7 @@ Java Console BlackJack
 
 ![image](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/ce702a48-52a6-405e-bb81-3411190d9cd2)
 
-Racket RSA Encryption Program and Modular Exponentiation (Credit: Udacity)
+Racket RSA Encryption Program and Modular Exponentiation (Image Credit: Udacity)
 
 ![image](https://github.com/CasualIntellectual/CasualIntellectual/assets/137366044/301def71-0940-4389-9399-851ce980ab88)
 
