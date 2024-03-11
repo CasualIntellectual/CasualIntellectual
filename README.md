@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at the University of Waterloo
 ----------------------------------------
 
-I have been programming for three years throughout high school and have finished two video game projects using Python and Java recently. I am currently focusing on web developement using HTML/CSS/React.
+I have been programming for three years throughout high school and have finished two video game projects using Python and Java recently. I am currently focusing on web developement using HTML/CSS/React. However, I want to pursue cybersecurity as a career and have begun studying it in 2024. One cybersecurity-related project I have created is an RSA encryption program and modular exponentiation function in Racket.
 
 * 🌍  I'm based in Waterloo, Ontario
 * ✉️  You can contact me at [k37huang@uwaterloo.ca](mailto:k37huang@uwaterloo.ca)
-* 🧠  I'm learning HTML, CSS, and React
-* 🤝  I'm open to collaborating on front-end projects
+* 🧠  I'm learning HTML, CSS, React, and cybersecurity principles.
+* 🤝  I'm open to collaborating on front-end projects or security-related projects.
 
 ### Skills
 
