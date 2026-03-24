@@ -11,7 +11,7 @@ However, I want to pursue cybersecurity as a career and have begun studying it i
 * 🌍  I'm based in Waterloo, Ontario
 * ✉️  You can contact me at [k37huang@uwaterloo.ca](mailto:k37huang@uwaterloo.ca)
 * 🧠  I'm learning HTML, CSS, React, and cybersecurity principles.
-* 🤝  I'm open to collaborating on front-end projects or security-related projects.
+* 🤝  I'm open to collaborating on software projects or security-related projects.
 
 ### Skills
 
