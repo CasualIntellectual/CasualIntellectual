@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at the University of Waterloo
 ----------------------------------------
 
-I have been programming for three years throughout high school and have finished two video game projects using Python and Java recently.
+I have been programming for six years throughout high school and university and have finished two video game projects using Python and Java.
 
-However, I want to pursue cybersecurity as a career and have begun studying it in 2024. One cybersecurity-related project I have created is an RSA encryption program and modular exponentiation function in Racket.
+However, I want to pursue cybersecurity as a career and began studying it in 2024. One cybersecurity-related project I have created is an RSA encryption program and modular exponentiation function in Racket.
 
 * 🌍  I'm based in Waterloo, Ontario
 * ✉️  You can contact me at [k37huang@uwaterloo.ca](mailto:k37huang@uwaterloo.ca)
