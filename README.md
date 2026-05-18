@@ -25,6 +25,9 @@ However, I want to pursue cybersecurity as a career and began studying it in 202
 
 ### Projects 
 
+C++ Chess Program
+
+<img width="821" height="856" alt="Screenshot 2026-05-18 120748" src="https://github.com/user-attachments/assets/f97c3496-b415-40c6-bf3c-e86a5916b7d1" />
 
 Pygame Browser Top-Scroller
 
