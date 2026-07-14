@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at the University of Waterloo
 ----------------------------------------
 
-I have been programming for throughout high school and university and have finished two video game projects using Python and Java.
+I have been programming throughout high school and university and have finished two video game projects using Python and Java.
 
 * 🌍  I'm based in Waterloo, Ontario
 * ✉️  You can contact me at [k37huang@uwaterloo.ca](mailto:k37huang@uwaterloo.ca)
