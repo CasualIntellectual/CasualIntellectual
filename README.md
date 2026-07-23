@@ -6,7 +6,7 @@ CS Student at the University of Waterloo
 
 I have been programming throughout high school and university and have finished three video game projects using C++, Python and Java.
 
-* 🌍  I'm based in Waterloo, Ontario
+* 🌍  I'm based in Waterloo, Ontario and Burnaby, BC
 * ✉️  You can contact me at [k37huang@uwaterloo.ca](mailto:k37huang@uwaterloo.ca)
 * 🧠  I'm learning HTML, CSS, React, and cybersecurity principles.
 * 🤝  I'm open to collaborating on software projects or security-related projects.
